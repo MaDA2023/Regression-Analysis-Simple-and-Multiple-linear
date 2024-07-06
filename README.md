@@ -3,4 +3,4 @@ The project includes an attempt to analyze simple and multiple linear regression
 - Method 1: [Using Excel and SPSS](Regression_Percentage-of-Internet-users-in-Algeria.ppsx) [In Arabic]
 - Method 2: [Using Python](regression-analysis-simple-and-multiple-linear.ipynb) [In English]
   
-With the aim of comparing the two methods in terms of results.
+With the aim of comparing the two methods in terms of [Results](https://github.com/MaDA2023/Regression-Analysis-Simple-and-Multiple-linear/blob/main/Regression%20Analysis%20Comparison%20Table.pdf)
